@@ -16,18 +16,31 @@ Para cada derrota: 0 pontos;
 Veja um exemplo sequencial de entradas do usuário:
 
 Enter your name: > Tim
+
 Hello, Tim
+
 > rock,gun,lightning,devil,dragon,water,air,paper,sponge,wolf,tree,human,snake,scissors,fire
+
 Okay, let's start
+
 > rock
+
 Sorry, but the computer chose air
+
 > !rating
+
 Your rating: 0
+
 > rock
+
 Well done. The computer chose sponge and failed
+
 > !rating
+
 Your rating: 100
+
 > !exit
+
 Bye!
 
 # Sobre o projeto:
